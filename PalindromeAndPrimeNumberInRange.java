@@ -12,6 +12,7 @@ public class PalindromeAndPrimeNumberInRange {
             System.out.println(n +" is a Palindrome Number along with Prime Number.");
             n++;
         }
+        System.out.println("End");
         sc.close();
     }
     public static boolean isPalindrome(int n) {
